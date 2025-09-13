@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "How to learn React?",
+    "description": "Find the best resources and guides to start learning React.js.",
+    "category": "Education"
+  },
+  {
+    "id": 2,
+    "title": "React vs Vue",
+    "description": "Compare the features and performance of React and Vue frameworks.",
+    "category": "Comparison"
+  },
+  {
+    "id": 3,
+    "title": "React Animation Libraries",
+    "description": "Explore popular animation libraries for React and how to use them.",
+    "category": "Development"
+  },
+  {
+    "id": 4,
+    "title": "State Management in React",
+    "description": "Understand different state management solutions for React apps.",
+    "category": "Development"
+  },
+  {
+    "id": 5,
+    "title": "React Best Practices",
+    "description": "Tips and tricks for writing clean and efficient React code.",
+    "category": "Development"
+  }
+]
