@@ -2,7 +2,7 @@
 ## Search Result UI Clone
 
 This project is a pixel-perfect recreation of a search results UI inspired by a Dribbble shot. Built with React, Vite, and Tailwind CSS, it demonstrates frontend design intuition and attention to detail.
-
+View Live: <a href="https://searchresultui.netlify.app"> Click Here To View Live UI</a>
 ### Features
 - Modern search bar with live filtering
 - Dynamic tabs for All, Files, and People
